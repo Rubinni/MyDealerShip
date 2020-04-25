@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f79bdb14-983c-4d77-941e-fbddc313ab0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aoq0snu4A9BOdx0X3SQSzy2Udw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main_DealerShip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_DealerShip" />
+      <module name="MyDealerShip" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main_DealerShip" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f79bdb14-983c-4d77-941e-fbddc313ab0f" name="Default Changelist" comment="" />
+      <created>1587412074793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587412074793</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1587414374378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587414374378" />
+    <state x="527" y="240" width="312" height="327" key="Github.ShareDialog" timestamp="1587781827818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="527" y="240" width="312" height="327" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1587781827818" />
+    <state width="1311" height="165" key="GridCell.Tab.0.bottom" timestamp="1587427156257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="165" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587427156257" />
+    <state width="1311" height="165" key="GridCell.Tab.0.center" timestamp="1587427156257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="165" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587427156257" />
+    <state width="1311" height="165" key="GridCell.Tab.0.left" timestamp="1587427156257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="165" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587427156257" />
+    <state width="1311" height="165" key="GridCell.Tab.0.right" timestamp="1587427156257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="165" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587427156257" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587413717342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1587413717342" />
+    <state x="329" y="151" key="com.intellij.ide.util.TipDialog" timestamp="1587678807159">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="329" y="151" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587678807159" />
+  </component>
+</project>
