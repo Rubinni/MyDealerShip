@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aoq0snu4A9BOdx0X3SQSzy2Udw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,10 +58,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="444" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587414374378" />
-    <state x="527" y="240" width="312" height="327" key="Github.ShareDialog" timestamp="1587781827818">
+    <state x="527" y="240" width="312" height="327" key="Github.ShareDialog" timestamp="1587782240933">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="527" y="240" width="312" height="327" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1587781827818" />
+    <state x="527" y="240" width="312" height="327" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1587782240933" />
     <state width="1311" height="165" key="GridCell.Tab.0.bottom" timestamp="1587427156257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
